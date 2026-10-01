@@ -104,6 +104,4 @@ sudo ./audit.sh
 
 ## Author & License
 
-Maintained by **Duncan1738**.
-
 This project is open-source under the [MIT License](LICENSE).
