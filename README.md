@@ -12,7 +12,7 @@ This repository automates system security baseline configurations, SSH key-only 
 - Automated deployment of `ufw` firewall rules and default-deny ingress policy
 - SSH daemon hardening (disables root login, password authentication, and custom port configuration)
 - `fail2ban` deployment with jail configurations for SSH brute-force protection
-- Kernel network stack hardening via `/etc/sysctl.d/99-security-hardening.conf`
+- Kernel network stack hardening via `/etc/sysctl.d/99-security-hardening.conf`.
 - Unattended automatic security updates configuration
 - System compliance verification and audit reporting script
 
